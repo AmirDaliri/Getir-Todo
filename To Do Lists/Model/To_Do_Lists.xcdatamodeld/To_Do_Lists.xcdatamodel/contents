@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="14490.99" systemVersion="18F108f" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="List" representedClassName="List" syncable="YES" codeGenerationType="class">
+        <attribute name="descriptionText" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="done" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Lists" representedClassName="Lists" syncable="YES" codeGenerationType="class"/>
+    <elements>
+        <element name="List" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="Lists" positionX="-54" positionY="18" width="128" height="45"/>
+    </elements>
+</model>
